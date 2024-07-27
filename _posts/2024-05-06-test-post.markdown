@@ -5,4 +5,4 @@ date:   2024-05-06 21:45:00 -0400
 categories: playground
 ---
 
-This is the first post for my website. It's here so I can figure out the layout.
+This is the first post for my website. It's here so I can figure out the layout, and will go away soon.
